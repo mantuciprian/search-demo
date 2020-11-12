@@ -1,0 +1,100 @@
+{
+    "data": [
+        {
+            "category": "Analgesic",
+            "medicine_name": "Paracetamol",
+            "types": [
+                {
+                    "img": "./capsules.jgp",
+                    "type": "capsules"
+                },
+                {
+                    "img": "./injection.jpg",
+                    "type": "injection"
+                },
+                {
+                    "img": "./perfusion.jpg",
+                    "type": "perfusion"
+                }
+            ]
+        },
+        {
+            "category": "Analgesic",
+            "medicine_name": "Ibuprofen",
+            "types": [
+                {
+                    "img": "./capsules.jgp",
+                    "type": "capsules"
+                }
+            ]
+        },
+        {
+            "category": "Inhalants",
+            "medicine_name": "Aliflurane",
+            "types": [
+                {
+                    "img": "./aerosol_sprays.jpg",
+                    "type": "volatile solvents"
+                },
+                {
+                    "img": "./aerosol_sprays.jpg",
+                    "type": "aerosol sprays"
+                }
+            ]
+        },
+        {
+            "category": "Inhalants",
+            "medicine_name": "Nedocromil",
+            "types": [
+                {
+                    "img": "./aerosol_sprays.jpg",
+                    "type": "nitrites"
+                }
+            ]
+        },
+        {
+            "category": "Prescription drugs",
+            "medicine_name": "Augmentin",
+            "types": [
+                {
+                    "img": "./capsules.jgp",
+                    "type": "capsules"
+                }
+            ]
+        },
+        {
+            "category": "Prescription drugs",
+            "medicine_name": "Amoxicillin",
+            "types": [
+                {
+                    "img": "./injection.jpg",
+                    "type": "injection"
+                }
+            ]
+        },
+        {
+            "category": "Performance and image enhancing drugs",
+            "medicine_name": "Peptides",
+            "types": [
+                {
+                    "img": "./injection.jpg",
+                    "type": "injection"
+                },
+                {
+                    "img": "./capsules.jgp",
+                    "type": "capsules"
+                }
+            ]
+        },
+        {
+            "category": "Performance and image enhancing drugs",
+            "medicine_name": "hormones",
+            "types": [
+                {
+                    "img": "./capsules.jgp",
+                    "type": "capsules"
+                }
+            ]
+        }
+    ]
+}
